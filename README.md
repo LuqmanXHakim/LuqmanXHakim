@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuqmanXHakim&repo=github-readme-stats&theme=buefy" />
+</a>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?LuqmanXHakim=anuraghazra&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuqmanXHakim&layout=compact" height=180 />
 </p>
