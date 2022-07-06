@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Luqman! 👾
 
 <!--
 **LuqmanXHakim/LuqmanXHakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuqmanXHakim&repo=github-readme-stats&theme=buefy" />
-</a>
+
 <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=LuqmanXHakim&show_icons=true&theme=dracula" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuqmanXHakim&layout=compact" height=180 />
 </p>
