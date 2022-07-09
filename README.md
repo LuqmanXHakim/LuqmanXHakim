@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=LuqmanXHakim&show_icons=true&theme=dracula" width="400">
